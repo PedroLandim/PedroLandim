@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá, eu sou Pedro Landim! 👋
 
-<!--
-**PedroLandim/PedroLandim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
 
-Here are some ideas to get you started:
+- 🌱 Atualmente estou aprendendo Engenharia de Dados
+- 👯 Estou procurando colaborar em Desenvolvimento WEB
+- 🤔 Estou procurando ajuda com Cybersegurança
+- 📫 Como me encontrar: plb3@cin.ufpe.br 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=PedroLandim&show_icons=true&theme=radical)
+
+## Linguagens mais usadas
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLandim&layout=compact&theme=radical)
