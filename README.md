@@ -3,7 +3,7 @@
 ## Sobre mim
 
 - 🌱 Atualmente estou aprendendo Engenharia de Dados
-- 👯 Atualmente trabalho como Desenvolvedor WEB
+- 👯 Atualmente trabalho como Software Developer
 - 📫 Como me encontrar: plb3@cin.ufpe.br 
 
 
