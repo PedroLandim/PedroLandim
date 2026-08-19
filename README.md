@@ -1,16 +1,54 @@
 # Olá, eu sou Pedro Landim! 👋
 
-## Sobre mim
+🎓 Estudante de Ciência da Computação na UFPE  
+💻 Software Developer | Data Engineering  
+📍 Recife, PE - Brasil
 
-- 🌱 Atualmente estou aprendendo Engenharia de Dados
-- 👯 Atualmente trabalho como Software Developer
-- 📫 Como me encontrar: plb3@cin.ufpe.br 
+Atualmente estou direcionando minha carreira para **Engenharia de Dados**, com foco na construção de pipelines, modelagem de dados, bancos de dados e processamento de dados.
 
+Tenho experiência com desenvolvimento de software e venho aprofundando meus conhecimentos em arquiteturas e ferramentas utilizadas no ecossistema de dados.
 
-## Estatísticas do GitHub
+---
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=PedroLandim&show_icons=true&theme=radical)
+## 🚀 Atualmente estudando
 
-## Linguagens mais usadas
+- Engenharia de Dados
+- ETL / ELT
+- Data Warehouses
+- Arquiteturas de Dados
+- Docker e ambientes containerizados
+- Bancos de dados relacionais
+- Pipelines de dados
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLandim&layout=compact&theme=radical)
+---
+
+## 🛠️ Tecnologias
+
+### Dados e Backend
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### Infraestrutura e Ferramentas
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedroLandim&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLandim&layout=compact&theme=radical)
+
+---
+
+## 📫 Contato
+
+📧 **E-mail:** plb3@cin.ufpe.br
+
+💼 **LinkedIn:** [adicione seu LinkedIn aqui]
