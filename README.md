@@ -50,4 +50,4 @@ Tenho experiência com desenvolvimento de software e venho aprofundando meus con
 
 📧 **E-mail:** plb3@cin.ufpe.br
 
-💼 **LinkedIn:** [adicione seu LinkedIn aqui]
+💼 **LinkedIn:** (https://www.linkedin.com/in/pedro-landim-de-brito-143236252/)
