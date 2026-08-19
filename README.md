@@ -40,9 +40,9 @@ Tenho experiência com desenvolvimento de software e venho aprofundando meus con
 
 ## 📊 GitHub Stats
 
-![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedroLandim&show_icons=true&theme=radical)
+![Pedro's GitHub Stats](./profile/stats.svg)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLandim&layout=compact&theme=radical)
+![Top Languages](./profile/top-langs.svg)
 
 ---
 
